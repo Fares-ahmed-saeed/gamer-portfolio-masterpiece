@@ -5,9 +5,9 @@
   <p>A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS</p>
   
   <!-- Demo Button -->
-  <a href="#demo">
-    <img src="https://gamer-portfolio-masterpiece.vercel.app//🎮_View_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="View Demo" />
-  </a>
+ <a href="https://gamer-portfolio-masterpiece.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🎮_View_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="View Demo" />
+</a>
   
   <br><br>
   
